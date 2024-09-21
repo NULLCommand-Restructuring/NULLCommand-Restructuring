@@ -48,11 +48,10 @@ Hello! I am **NULL Command**, a passionate developer from **Vietnam**. I love cr
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/null.lasthope)
 [![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat&logo=Firefox&logoColor=white)](https://openfxt.vercel.app)
 
-<!-- ## 💼 Featured Projects
+## 💼 Featured Projects
 
-- [**Project 1**](https://github.com/yourusername/project1): A brief description of the project and the technologies used.
-- [**Project 2**](https://github.com/yourusername/project2): A brief description of the project and the technologies used.
-- [**Project 3**](https://github.com/yourusername/project3): A brief description of the project and the technologies used. -->
+- [**PureHealthTTLaravelEC**](https://github.com/NULLCommand-Restructuring/PureHealthTTLaravelEC): An e-commerce site for plant-based foods built with Laravel, featuring product management, shopping cart, order placement, and AI-driven recommendations.
+- Update soon...
 
 <!-- ## ✍️ Recent Articles
 
