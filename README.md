@@ -56,6 +56,7 @@ Hello! I am **NULL Command**, a passionate developer from **Vietnam**. I love cr
 - [**GPTPlusUnlockerExtension**](https://github.com/NULLCommand-Restructuring/GPTPlusUnlockerExtension): Chrome extension offering temporary access to GPT Plus features for free, allowing users to test premium capabilities.
 - [**NULLImplementer**](https://github.com/NULLCommand-Restructuring/NULLImplementer): A command-line tool to interact with AI, send resources for processing, and create images from text prompts on Windows CMD.
 - [**NULLAIServerAPI**](https://github.com/NULLCommand-Restructuring/NULLAIServerAPI): A Flask-based API server providing endpoints for text and image responses, using generative models like GPT and Bing Image Creator.
+- [**ChatFXT**](https://github.com/NULLCommand-Restructuring/ChatFXT): A lightweight AI chatbot service built with Next.js, integrated with NULLAIServerAPI, providing independent responses to user queries.
 - Update soon...
 
 <!-- ## ✍️ Recent Articles
