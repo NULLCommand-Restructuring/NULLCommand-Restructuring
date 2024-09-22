@@ -53,6 +53,7 @@ Hello! I am **NULL Command**, a passionate developer from **Vietnam**. I love cr
 
 - [**PureHealthTTLaravelEC**](https://github.com/NULLCommand-Restructuring/PureHealthTTLaravelEC): An e-commerce site for plant-based foods built with Laravel, featuring product management, shopping cart, order placement, and AI-driven recommendations.
 - [**FreeChatGPTPlusService**](https://github.com/NULLCommand-Restructuring/FreeChatGPTPlusService): A service offering free, daily-updated ChatGPT Plus accounts for unlimited, easy access without registration.
+- [**GPTPlusUnlockerExtension**](https://github.com/NULLCommand-Restructuring/GPTPlusUnlockerExtension): Chrome extension offering temporary access to GPT Plus features for free, allowing users to test premium capabilities.
 - Update soon...
 
 <!-- ## ✍️ Recent Articles
